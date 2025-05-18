@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="calculate_tip">Calcular Gorjeta</string>
+    <string name="bill_amount">Valor da Conta</string>
+    <string name="how_was_the_service">Percentagem da Gorjeta</string>
+    <string name="round_up_tip">Arredondar gorjeta?</string>
+    <string name="tip_amount">Gorjeta: %s</string>
+    <string name="dark_mode">Modo Escuro</string>
+    <string name="settings">Definições</string>
+    <string name="back">Voltar</string>
+    <string name="customize_theme">Escolher Tema</string>
+</resources>
